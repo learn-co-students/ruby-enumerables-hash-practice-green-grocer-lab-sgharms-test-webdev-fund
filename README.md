@@ -13,7 +13,7 @@
 In this lab, we're going to simulate a grocery store checkout process. In most
 modern grocery stores, a customer adds to a grocery cart as they walk through
 the store. A cart can be thought of as a _collection_ of grocery items. Each
-grocery item has specific attributes, such as a sale price, or whether or not
+grocery item has spsfecific attributes, such as a sale price, or whether or not
 its on clearance. There may be multiples of the same item in the cart, mixed
 together in no particular order.
 
